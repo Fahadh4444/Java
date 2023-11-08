@@ -11,7 +11,12 @@ public class pillars {
         xyz.printCountry();
     }
 
-    public void polymorphism(){
-
+    public void inf(){
+        Check number = new Check();
+        number.printCount();
     }
+
+//    public void polymorphism(){
+//
+//    }
 }
