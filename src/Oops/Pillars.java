@@ -1,8 +1,6 @@
 package Oops;
 
-import javax.swing.plaf.synth.SynthTextAreaUI;
-
-public class pillars {
+public class Pillars {
     //Inheritance
 //    public void inheritance(){
 //        Country abc = new Country("India");
