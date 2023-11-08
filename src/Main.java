@@ -5,6 +5,7 @@ public class Main{
         pillars a = new pillars();
 //        a.inheritance();
 //        a.inf();
-
+//        a.polymorphism();
+        a.abstraction();
     }
 }
